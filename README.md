@@ -1,4 +1,4 @@
-![Screenshot (20)](https://github.com/user-attachments/assets/12c3368b-23bb-47f5-a6f3-fa87d6fdfc79)# Login & Register in React JS with Local Storage
+ #  Login & Register in React JS with Local Storage
 
 A simple React.js project demonstrating user login and registration using local storage. This project helps beginners understand how to implement a basic authentication system in a React application with the help of Local Storage for managing user sessions.
 
@@ -67,6 +67,10 @@ During login, the app checks the input credentials against the stored data in lo
 Once logged in, the user is redirected to a Dashboard page, and their session is preserved using local storage.
 If the user logs out, the local storage is cleared, ending the session.
 
-
+#  Output Images 
 ![Screenshot (20)](https://github.com/user-attachments/assets/7ec3bc80-7eaf-4b26-b852-b7c1070526ad)
+![Screenshot (21)](https://github.com/user-attachments/assets/6eba724b-8d1f-43ed-bf40-2577900e55f1)
+![Screenshot (22)](https://github.com/user-attachments/assets/c735cf49-c222-42a8-8af5-7f6c639d3805)
+![Screenshot (23)](https://github.com/user-attachments/assets/c73cf536-f266-4c00-8bbb-98b060459215)
+
 
