@@ -59,13 +59,17 @@ Once logged in, the user is redirected to a Dashboard page, and their session is
 If the user logs out, the local storage is cleared, ending the session.
 
 #  Output Images 
+
 1. Register Page
 ![Screenshot (20)](https://github.com/user-attachments/assets/7ec3bc80-7eaf-4b26-b852-b7c1070526ad)
+
 2. Login Page
 ![Screenshot (21)](https://github.com/user-attachments/assets/6eba724b-8d1f-43ed-bf40-2577900e55f1)
+
 3.User Page
 ![Screenshot (22)](https://github.com/user-attachments/assets/c735cf49-c222-42a8-8af5-7f6c639d3805)
+
 4. File Structure
-5. ![Screenshot (23)](https://github.com/user-attachments/assets/c73cf536-f266-4c00-8bbb-98b060459215)
+![Screenshot (23)](https://github.com/user-attachments/assets/c73cf536-f266-4c00-8bbb-98b060459215)
 
 
